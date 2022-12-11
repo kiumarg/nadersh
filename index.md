@@ -1,5 +1,5 @@
 ---
-  title: "My Website"
+  title: "Nader Shoaibi"
 ---
   
   - Hello, Website! Welcome to the world.
@@ -7,7 +7,6 @@
 
 And then there is another thing:
 1. One
-2. two [link](test/test.html)
 3. here is another thign
 
 one more thoguth.
