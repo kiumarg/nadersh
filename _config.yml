@@ -1,9 +1,6 @@
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: ankitsultana/researcher@gem
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-sidebars:
-  - generic
-  - jekyllhowto
